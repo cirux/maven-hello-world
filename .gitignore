@@ -22,7 +22,6 @@ npm-debug.log.*
 # Eclipse
 ######################
 *.pydevproject
-.project
 .metadata
 tmp/
 tmp/**/*
@@ -32,6 +31,7 @@ tmp/**/*
 *~.nib
 local.properties
 .classpath
+.settings/
 .loadpath
 .factorypath
 /src/main/resources/rebel.xml
